@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An impartial account of the behaviour of Sir Thomas Armstrong, from the time of his apprehension to his execution: with his deportment at Tybourn; where he was executed for high-treason, on Friday the 20th day of June, 1684.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24564</idno><idno type="EEBO-CITATION">99890271</idno>
+  <idno type="VID">189587</idno>
+  <idno type="EEBO-PROQUEST">2248545078</idno>
+  
+            <idno type="OCLC"> 16138359</idno>
+            <idno type="STC">Wing I69</idno>
+            <idno type="STC">Interim Tract Supplement Guide 515.l.2[92]</idno>
+            <idno type="STC">ESTC R36818</idno>
+            <idno type="PROQUEST">ocm99890271</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99890271e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24564)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 189587)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C17:1[93])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An impartial account of the behaviour of Sir Thomas Armstrong, from the time of his apprehension to his execution: with his deportment at Tybourn; where he was executed for high-treason, on Friday the 20th day of June, 1684.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Geo. Croom, at the sign of the Blue Ball over against Baynard's Castle in Thames-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Armstrong, Thomas, --  Sir, 1624?-1684 --  Early works to 1800.</term>
+               <term type="topical_term">Rye House Plot, 1683 --  Early works to 1800.</term>
+               <term type="topical_term">Executions and executioners --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="report">
+            <pb facs="tcp:189587:1"/>
+            <head>An Impartial ACCOUNT Of the BEHAVIOUR OF Sir Thomas Armstrong, From the time of his APPREHENSION To his Execution: With his Deportment at TYBOURN; Where he was Executed for HIGH-TREASON, On <hi>Friday</hi> the 20th day of <hi>June,</hi> 1684.</head>
+            <p>IT is not becoming amongst the <hi>Living</hi> to speak Ill of the <hi>Dead.</hi> Tho I cannot but imagine in cases of this nature, it is a kind of Duty incumbent on Man<g ref="char:EOLhyphen"/>kind, to take notice of the Steps by which the Providence of the Almighty overtakes the <hi>Criminal.</hi> As all Sin deserves its Punishment, and will at one time or other, in this or another place meet its just Demerit; So rare it happens: but even in this Life we reap the Harvest we Sow, and the Measures we meeted unto others, are returned upon our selves. An instance of this fatal Truth, the Death of Sir <hi>Thomas Armstrong</hi> doth sufficiently verify. Nor certainly could any Person that in like manner ever suffered the sentence of the Law, less Murmur or Re<g ref="char:EOLhyphen"/>pine at the Justice of the Almighty therein, then himself. The Bloody Extravagancies of whose Lite, and Debau<g ref="char:EOLhyphen"/>cheries, of whose Principles and Practicies having so much deserved the same; and which have been so No<g ref="char:EOLhyphen"/>torious to all the World, that all good Men long since rejected him, and none but such who intended to make use of him, as the Mountebank of his Poyson, would admit him their Society. And this amongst others might have been one reason that made him espouse those Parties and Designs that brought him to this untimely End. But as he is gone to another Tribunal to answer those Crimes he hath been here Guilty of, I shall not again Arraign him: my present purpose is only to acquaint you of his Behaviour since his Apprehension and Confinement; and this some Men perhaps may expect to be according to the rules of his former Life and Conversation in a Ro<g ref="char:EOLhyphen"/>mantick Bravery, as if he intended to outvie the great Conqueror of Mankind, and meet him with an unap<g ref="char:EOLhyphen"/>palled Courage. But alas Death is not so to be trifled with, tho when we esteem it, afar off and beyond our Hearing we are apt to speak Contemptibly of its Power: yet when it appears within our view, the best of us are too prone to Tremble at the Dread it brings with it: nor certainly could the Prisoner be unde<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#oxf" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> less apprehen<g ref="char:EOLhyphen"/>sions of its Terrour; which tho he strove all he could to hide from the Eyes of Observers, thinking it a kind of Disgrace and Weakness to discover Fear in that Breast which was always reported the repository of Courage: yet after the Sentence he was very Melancholy, and cal<g ref="char:EOLhyphen"/>led for what he had too often before then rejected; as not becoming the Complexion or Constitution of a Man of his Temper, to wit, the Holy Scriptures; which before his Execution he was often seen to Read and Peruse, with great Affection and Diligence ever and anon sighing at his Condition: yet such and so great an Obstinacy was he under whether from the hopes of being looked on as Innocent, and so in a way for Par<g ref="char:EOLhyphen"/>don, or otherwise hardened in his Iniquity by the great deceiver of Mankind, he would not be brought to a Confession of what he stood Condemned for, tho the same was so palpable against him, that even at the time of his Apprehension there were certain Letters found about him, which Discovered the Combination as the same had been, and was still carried on; besides the manifold proofs which in the tryals of his former Com<g ref="char:EOLhyphen"/>panions in the same Conspiracies, were notoriously Evident to the whole World against him. But when once a Man leaves his God, and is left of him, what strange Absurdities and Errors will he not Embrace, and how Difficultly is he induced to decline or recant them. Of his great Crime in this Case. I doubt not but he was well advised by that Worthy and Learned Divine, Dr. <hi>Tennison,</hi> who several times came to him, during the time he was in <hi>Newgate;</hi> and particularly on <hi>Wed<g ref="char:EOLhyphen"/>nesday,</hi> in the Morning and Evening of the same Day; and on <hi>Thursday</hi> in the Morning: at which time he Ad<g ref="char:EOLhyphen"/>ministred the <hi>Sacrament</hi> to the Prisoner; wherein with great shew of Penitence and Devotion he demeaned him self, during the whole time of the said Administration. And from thence during the whole Day ensuing, with a composer Christian like Temper: insomuch, that it <gap reason="illegible" resp="#oxf" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb facs="tcp:189587:2"/> then hoped God had made him so sensible of the dan<g ref="char:EOLhyphen"/>ger of the Condition he was under, that a true and ingenious Confession of his Crimes and Confederates therein would have been the Issue thereof. Nor indeed was less expected of him, the next Night and the Morning following (being that on which he suffered) so great Pains having been taken by the said Reverend and Loyal Divine before mentioned, to perswade and induce him to the consideration of his future Estate, an Entrance into which he was now so nearly approached unto.</p>
+            <p>The Hour of his Suffering was now at hand: The Right Worshipful the Sheriff of <hi>London</hi> and <hi>Middlesex,</hi> about the Hour of Nine or Ten in the Morning coming to <hi>Newgate,</hi> and demanding their said Prisoner, he was forthwith delivered unto them; being put into a Sledge that was prepared for his Passage to the Place of Death▪ attended by a very numerous Guard, and so gre<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Number of Spectators of all Degrees and Qualities, that the like hath not been of late observed in any Executi<g ref="char:EOLhyphen"/>on of this Nature.</p>
+            <p>Nor was the Demeanour of the Prisoner less remark<g ref="char:EOLhyphen"/>able in his said Passage; for tho he seem'd couragiously enough to behave himself, yet something of Sullenness and Reservedness of Humor appear'd in his Counte<g ref="char:EOLhyphen"/>nance whilst he employed his Time in Reading that Pi<g ref="char:EOLhyphen"/>ous and Excellent Piece, <hi>The Whole Duty of Man,</hi> till such time as he came within Sight of the <hi>Gallows,</hi> when, he laid the same by, and with lifted-up Hands and Eyes, addressed the Motion of his Lips Heaven-wards. Nor did he leave off the same Posture till he came beneath the Tree, where he stayed about a Quarter of an Hour in the Sledge before he ascended the Cart that stood ready for him, desiring the Sheriff to admit the Doctor, before mention'd, to him; whereupon, the Doctor was call'd for; but the Crowd was so great, it was not with a little Difficulty that he got to the Prisoner, Captain <hi>Richardson</hi> himself being forced to make the Way. As<g ref="char:EOLhyphen"/>soon as he got up to him, after the Salutation between the Prisoner and the Doctor, Sir <hi>Thomas</hi> delivered a Pa<g ref="char:EOLhyphen"/>per to the said <hi>Sheriff,</hi> wherein it may be expected he hath made a becoming and satisfactory Confession of his Miscarriages for which he came to Dye; it being the only way he had to Ingratiate himself, in the last Peri<g ref="char:EOLhyphen"/>od of his Life, to the Compassion of His Sacred Maje<g ref="char:EOLhyphen"/>sty, whom he had so highly Injur'd, and, in some mea<g ref="char:EOLhyphen"/>sure, to blot out that Aspersion the Shame and Contu<g ref="char:EOLhyphen"/>mely of his Fate had brought upon him.</p>
+            <p>But what the Contents of the said Paper were, I shall not take upon me, in the least measure, to intrench up<g ref="char:EOLhyphen"/>on, the same, without doubt, being intended to be ex<g ref="char:EOLhyphen"/>posed in due time, with Authority, to the Publick.</p>
+            <p>After which, the Doctor before mentioned Kneeled down with the Prisoner, and for about half a Quarter of an Hour Prayed devoutly with him, recommending the Person, and Case of the Sufferer, to the Mercy of the Almighty, and Intercession of the great Redeemer of Mankind, <hi>Christ Jesus,</hi> whose Blood and Merits are all-sufficient to Pardon the worst of Crimes and Crimi<g ref="char:EOLhyphen"/>nals; concluding with that Perfect and Absolute Form he hath left us for our Instruction when we Address our selves to God the Father: in which he Prisoner audi<g ref="char:EOLhyphen"/>bly joyned with him.</p>
+            <p>During all which Time, he preserved a becoming and heroick Countenance, little daunted with the Terror of that Fate he was in view of: but rising from his De<g ref="char:EOLhyphen"/>votions, he pulled off his Cravat and Hat, which he gave to his Servant who attended him, and had follow<g ref="char:EOLhyphen"/>ed him by the Sledge-side; when Kneeling down him<g ref="char:EOLhyphen"/>self, he Prayed for a short time with seeming Fervency and Devotion, begging Pardon of his God for those manifold and crying Sins he had been too often Guilty of: and concluded with a Resignation of himself to the God of Heaven and Earth, before whose Judgment-Seat he was forthwith to appear; desiring that the whole World would forgive him, which whom, he hop'd, he died in Peace and Charity. Having thus ended those Devotions, he again stood up, and putting off his Peri<g ref="char:EOLhyphen"/>wig, he had a White Cap delivered to him, which he put on; and being soon after tyed up, the chief of his Discourse was addressed to a Gentleman who stood by him; and after a short space holding up his Hands, he again renewed his Prayers, his Visage little changing all the time, till the very Moment the Cart drew away. The Executioner having pulled his Cap over his Eyes, he continued his Prayers all the time; and even whilst he hung, as long as Life was in him, and he had the Command of his Lips, the same moved: But Death then came upon him, and he was forced to submit to that great Tyrant of Nature, whose absolute Com<g ref="char:EOLhyphen"/>mand is so Imperious over all the Race of Mortality, that the most Stubborn must pay Obedience to his Laws.</p>
+            <p>Upon the Whole, Who is it but must acknowledge the Justice and Sovereignty of Heaven? That although it may for some time seem to Wink at the Enormities of Mankind, yet is it always so wakeful, and observant of the Life and Person of his Sacred Majesty, whom he hath Called unto and Anointed in the Place and Dig<g ref="char:EOLhyphen"/>nity of the <hi>English Monarchy,</hi> that no Treason or Design against Him, can, or ever shall, be effected.</p>
+            <p>The same Providence that now Protects him from The Malevolence of this too Aspiring and Ambitious Party, was that which formerly snatched him from their Hands and Designs, even then when they were flush'd with the Royal Blood of his Gracious Father, the best of preceeding Kings, and setled him again on that Throne they had before robb'd him of. And here it is that all Good Men must stand in Admiration at, and pay their grateful Returns to the Divine Power, who so miraculously appears in his Behalf. <hi>If God be for us, who can be against us?</hi> Is the Saying of Inspiration it self: And surely, if ever People had an Evidence of this Truth, our present Circumstances afford us such an one.</p>
+            <p>Tho the Bullets was prepared for the Royal Breast, the Persons designed ready to Execute it, the Place, the Manner, and the Day appointed; and the very Design secure: yet God step'd in, in the very Moment, and bar<g ref="char:EOLhyphen"/>red their Intents: of which number, this Gentleman was not the last, not this the first time he had been con<g ref="char:EOLhyphen"/>cerned in the like Attempts, and that many Years since; which tho his Sacred Majesty knew, yet, such was his Mercy, them to forgive him; and such the Prisoners In<g ref="char:EOLhyphen"/>gratitude since to forget it, and again embroyl him<g ref="char:EOLhyphen"/>self in those horrid Designs the World is now no stranger to: and for which, this just and condign Punishment hath been Inflicted upon him. Which Punnishment, may all those that are his Confederates in due time re<g ref="char:EOLhyphen"/>ceive.</p>
+            <p>But, to return to my Subject, after such time the Sufferer had hung about half an Hour, and the Execu<g ref="char:EOLhyphen"/>tioner had divested him of his Aparrel, he was cut down according to his Sentence; his Privy Members dissected from his Body, and Burnt; his Head cut off, and shewed to the People as that of a Traytor; his Heart and Bowels taken out, and committed to the Flames; and his Body Quartered into four Parts, which, with his Head, was conveyed back to <hi>Newgate,</hi> to be disposed of according to his Majesties Pleasure, and Order. Whom the God of all Power and Mercy preserve with length o<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Days, and all manner of Increase and Happiness; tha<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as He is the best of <hi>Kings,</hi> He may be Blessed with th<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> most Obedient and Loyal of People.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON.</hi> Printed by <hi>Geo. Croom,</hi> at the Sign of the <hi>Blue Ball</hi> over against <hi>Baynard</hi>'s <hi>Cas<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> in <hi>Th<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#oxf" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi>
+               <gap reason="illegible" resp="#oxf" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
